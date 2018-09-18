@@ -128,7 +128,7 @@ img {
 }
 ::selection {
   color: $white;
-  background: $white;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $white;
+  background-color: $black;
 }
 
 footer {
