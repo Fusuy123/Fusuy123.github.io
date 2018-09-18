@@ -124,10 +124,10 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $white;
-  background: $white;
+  background: $black;
 }
 ::selection {
-  color: $white;
+  color: $black;
   background: $black;
 }
 
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -257,7 +257,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px inset $gray;
     padding: 0.1em 1em;
-    color: $white;
+    color: $black;
     font-size: 22px;
     font-style: italic;
   }
