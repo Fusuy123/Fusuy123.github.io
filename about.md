@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+A blog about school I.T Lessons
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live in London, UK. Blog writer and Student
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yusuf.baraky@challoners.org](mailto:yusuf.baraky@challoners.org)
