@@ -21,7 +21,7 @@ body {
 	background-image: url("https://media.giphy.com/media/mMQf9bzSyrP1K/giphy.gif");
 	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: $black;
 }
 
 .container {
@@ -128,7 +128,7 @@ img {
 }
 ::selection {
   color: $black;
-  background: $white;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
